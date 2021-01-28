@@ -93,7 +93,7 @@
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
     "concurrently": "^4.1.1",
-    "electron": "^5.0.8",
+    "electron": "^9.4.0",
     "electron-builder": "^21.1.5",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
